@@ -129,6 +129,16 @@
   <ItemGroup>
     <ClCompile Include="USApHCP-Solver-Heuristic-Methods.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="instances\inst10.txt" />
+    <Text Include="instances\inst100.txt" />
+    <Text Include="instances\inst20.txt" />
+    <Text Include="instances\inst200.txt" />
+    <Text Include="instances\inst25.txt" />
+    <Text Include="instances\inst40.txt" />
+    <Text Include="instances\inst5.txt" />
+    <Text Include="instances\inst50.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

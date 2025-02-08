@@ -19,4 +19,30 @@
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="instances\inst5.txt">
+      <Filter>Arquivos de Recurso</Filter>
+    </Text>
+    <Text Include="instances\inst10.txt">
+      <Filter>Arquivos de Recurso</Filter>
+    </Text>
+    <Text Include="instances\inst20.txt">
+      <Filter>Arquivos de Recurso</Filter>
+    </Text>
+    <Text Include="instances\inst25.txt">
+      <Filter>Arquivos de Recurso</Filter>
+    </Text>
+    <Text Include="instances\inst40.txt">
+      <Filter>Arquivos de Recurso</Filter>
+    </Text>
+    <Text Include="instances\inst50.txt">
+      <Filter>Arquivos de Recurso</Filter>
+    </Text>
+    <Text Include="instances\inst100.txt">
+      <Filter>Arquivos de Recurso</Filter>
+    </Text>
+    <Text Include="instances\inst200.txt">
+      <Filter>Arquivos de Recurso</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
